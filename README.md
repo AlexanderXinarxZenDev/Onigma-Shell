@@ -48,7 +48,7 @@ Onigma Shell is a drop‑in replacement for `cmd.exe` that brings:
 - **Windows** 10/11 (or Windows Server 2019+ with ConPTY support)
 
 ### Option 1: Download pre‑built binary
-[Download the latest `onigma.exe` from Releases]() – just run it.
+[Download the latest `onigma.exe` from Releases](https://github.com/AlexanderXinarxZenDev/Onigma-Shell/releases/) – just run it.
 
 ### Option 2: Build from source
 
