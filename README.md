@@ -2,7 +2,6 @@
 
 **Windows terminal reimagined** – a custom interactive shell written in Go with all the shortcuts, colors, and conveniences you expect, plus extras.
 
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/OnigmaShell/onigma)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078d7)
 
